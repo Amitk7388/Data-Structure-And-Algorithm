@@ -1,9 +1,11 @@
-# Linked List
+
+## DIFF/BETWEEN Linked-List/Array 
+### Linked List
 - Do not have indexes!
 - Connected Via nodes with **next** Pointer
 - Random Access is not Allowed
 
-# Arrays
+### Arrays
 - Indexed in **Order**
 - Insertion and deletion can be very expensive
 - Can quicly be accessed at a specific index
